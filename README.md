@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/her-boots-by-my-bed/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Her Boots by My Bed](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/her-boots-by-my-bed/) |
+| **Get License** | [Get License For Her Boots by My Bed](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/her-boots-by-my-bed/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fc6f8944287ee73c8e5777764d651db04e958694d5405b59d5d7ec690a7d8d7a` |
 | **Timestamp** | May 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
