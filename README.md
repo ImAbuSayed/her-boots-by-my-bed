@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/her-boots-by-my-bed/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Her Boots by My Bed](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/her-boots-by-my-bed/) |
+| **Get License** | [Request Licensing for Her Boots by My Bed](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/her-boots-by-my-bed/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the heat when you walk through the room
+> Chasing away all the midnight gloom
+> Your leather boots hitting my hardwood floor
+> I know tonight I’m gonna want you more
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
